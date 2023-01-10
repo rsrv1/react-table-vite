@@ -1,3 +1,1 @@
-### React Tanstack Table - Vite
-
-`pnpm dev`
+`pnpm install && pnpm dev`
