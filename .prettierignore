@@ -1,0 +1,7 @@
+package-lock.json
+node_modules
+dist
+yarn.lock
+pnpm-lock.yaml
+.vercel
+public
